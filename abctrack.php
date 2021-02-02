@@ -34,7 +34,8 @@ class Tracker
 			<!DOCTYPE html>
 			<html>
 			<body>
-				<h1>User Tracking</h1>
+				<h1>User Data</h1>
+				
 			<table>
 				<tr>
 				    <th> User Id &nbsp &nbsp </th>
