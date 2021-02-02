@@ -14,6 +14,7 @@ Text Domain: abctrack plugin
 */
 class Tracker
 {
+// added comment to your code
 	function __construct()
 	{
 
